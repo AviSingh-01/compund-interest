@@ -1,1 +1,1 @@
-# compund-interest
+# compound-interest
